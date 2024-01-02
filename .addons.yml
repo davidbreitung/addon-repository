@@ -4,4 +4,4 @@ addons:
   owserver:
     repository: davidbreitung/hassio-owserver
     target: .
-    image: ghcr.io/lrybak/owserver/{arch}
+    image: ghcr.io/davidbreitung/owserver/{arch}
