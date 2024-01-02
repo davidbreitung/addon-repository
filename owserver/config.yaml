@@ -1,7 +1,7 @@
 name: owserver (1-wire)
 version: 0.3.5
 slug: owserver
-description: onewire server to read 1-Wire devices
+description: onewire server with multi module support
 url: https://github.com/davidbreitung/hassio-owserver
 startup: system
 init: false
