@@ -1,5 +1,5 @@
 name: owserver (1-wire)
-version: 0.3.5
+version: 2.0.0
 slug: owserver
 description: onewire server with multi module support
 url: https://github.com/davidbreitung/hassio-owserver
